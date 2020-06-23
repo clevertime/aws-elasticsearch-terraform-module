@@ -1,5 +1,6 @@
 # aws-elasticsearch-terraform-module
-terraform module to create aws elasticsearch cluster
+-terraform module to create aws elasticsearch cluster
+
 ## Requirements
 
 | Name | Version |
@@ -60,4 +61,3 @@ terraform module to create aws elasticsearch cluster
 ## Outputs
 
 No output.
-
